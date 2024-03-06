@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
- public class Sleep_10_2020
+ public class Sleep
  {
      public static void main(String [] args)
      {
